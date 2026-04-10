@@ -28,9 +28,9 @@ If you only provide a single contact attribute, it acts as a classic, pulsating 
 ```html
 <!-- Single WhatsApp Button -->
 <script 
-  src="[https://cdn.paneln.com/widgets/chat/v1/launcher.min.js](https://cdn.paneln.com/widgets/chat/v1/launcher.min.js)"
-  data-wa-number="923170740919"
-  data-wa-message="Hello Shafiq, I need help!"
+  src="https://cdn.paneln.com/widgets/chat/v1/launcher.min.js"
+  data-wa-number="971504170626"
+  data-wa-message="Hello, I need help!"
   data-position="right"
   defer>
 </script>
@@ -42,12 +42,12 @@ Provide multiple attributes, and it seamlessly transforms into a sleek pop-up me
 ```html
 <!-- Multi-Channel Menu -->
 <script 
-  src="[https://cdn.paneln.com/widgets/chat/v1/launcher.min.js](https://cdn.paneln.com/widgets/chat/v1/launcher.min.js)"
+  src="https://cdn.paneln.com/widgets/chat/v1/launcher.min.js"
   data-position="right"
   data-color="#2B2A33"
   data-welcome="Hi! How can we help?"
   
-  data-wa-number="923170740919"
+  data-wa-number="971504170626"
   data-wa-label="Chat with Support"
   
   data-tg-user="ShafiqSawand"
@@ -62,7 +62,7 @@ Perfect for creators or brands who want to drive traffic to their groups or chan
 ```html
 <!-- Community & Channels Menu -->
 <script 
-  src="[https://cdn.paneln.com/widgets/chat/v1/launcher.min.js](https://cdn.paneln.com/widgets/chat/v1/launcher.min.js)"
+  src="https://cdn.paneln.com/widgets/chat/v1/launcher.min.js"
   data-position="left"
   data-welcome="Join our communities!"
   
@@ -81,8 +81,8 @@ Auto-inject the user's current context (Page Title or URL) directly into the Wha
 ```html
 <!-- Dynamic WhatsApp Message -->
 <script 
-  src="[https://cdn.paneln.com/widgets/chat/v1/launcher.min.js](https://cdn.paneln.com/widgets/chat/v1/launcher.min.js)"
-  data-wa-number="923170740919"
+  src="https://cdn.paneln.com/widgets/chat/v1/launcher.min.js"
+  data-wa-number="971504170626"
   data-wa-message="Hi, I am looking at {page_title} and I have a question. Link: {page_url}"
   defer>
 </script>
